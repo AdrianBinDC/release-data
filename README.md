@@ -17,7 +17,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to the s
 
 ## Currently Updated
 
-As of 2026-10-26, 424 of the 487 products tracked by endoflife.date have automatically tracked releases:
+As of 2026-10-26, 426 of the 489 products tracked by endoflife.date have automatically tracked releases:
 
 | Product | Permalink | Auto | Method(s) |
 |---------|-----------|------|-----------|
