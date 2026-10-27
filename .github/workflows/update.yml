@@ -44,7 +44,8 @@ jobs:
       - name: Clone website repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          repository: endoflife-date/endoflife.date
+          # Fork-local change: product definitions (including swift, zig, ocaml) live on our own website fork.
+          repository: AdrianBinDC/endoflife.date
           path: website
           submodules: false
           fetch-depth: 0 # fetch all history for all branches and tags, needed for next step
@@ -102,7 +103,8 @@ jobs:
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
-        if: steps.update_data.outputs.commit_message != '' && github.ref == 'refs/heads/main' && github.repository == 'endoflife-date/release-data'
+        # Fork-local change: allow the bot to commit on our own fork's main.
+        if: steps.update_data.outputs.commit_message != '' && github.ref == 'refs/heads/main' && github.repository == 'AdrianBinDC/release-data'
         with:
           commit_message: ${{ steps.update_data.outputs.commit_message }}
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
