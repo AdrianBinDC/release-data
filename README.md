@@ -331,6 +331,7 @@ As of 2026-10-26, 424 of the 487 products tracked by endoflife.date have automat
 | NVIDIA Driver | [`/nvidia`](https://endoflife.date/nvidia) | ✔️ | declare, nvidia-releases |
 | NVIDIA GPUs | [`/nvidia-gpu`](https://endoflife.date/nvidia-gpu) | ❌ |  |
 | nvm | [`/nvm`](https://endoflife.date/nvm) | ✔️ | git |
+| OCaml | [`/ocaml`](https://endoflife.date/ocaml) | ✔️ | git |
 | Microsoft Office | [`/office`](https://endoflife.date/office) | ❌ |  |
 | Omnissa Horizon | [`/horizon`](https://endoflife.date/horizon) | ✔️ | release_table |
 | OnePlus | [`/oneplus`](https://endoflife.date/oneplus) | ❌ |  |
