@@ -17,7 +17,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to the s
 
 ## Currently Updated
 
-As of 2026-10-11, 420 of the 483 products tracked by endoflife.date have automatically tracked releases:
+As of 2026-10-26, 424 of the 487 products tracked by endoflife.date have automatically tracked releases:
 
 | Product | Permalink | Auto | Method(s) |
 |---------|-----------|------|-----------|
@@ -277,6 +277,7 @@ As of 2026-10-11, 420 of the 483 products tracked by endoflife.date have automat
 | Linux Mint | [`/linuxmint`](https://endoflife.date/linuxmint) | ✔️ | release_table |
 | Liquibase | [`/liquibase`](https://endoflife.date/liquibase) | ✔️ | github_releases |
 | Liquibase Secure | [`/liquibase-secure`](https://endoflife.date/liquibase-secure) | ✔️ | json_releases, json_versions |
+| Livewire | [`/livewire`](https://endoflife.date/livewire) | ✔️ | git |
 | Apache Log4j | [`/log4j`](https://endoflife.date/log4j) | ✔️ | github_releases |
 | Logstash | [`/logstash`](https://endoflife.date/logstash) | ✔️ | github_releases |
 | Longhorn | [`/longhorn`](https://endoflife.date/longhorn) | ✔️ | git |
@@ -322,6 +323,7 @@ As of 2026-10-11, 420 of the 483 products tracked by endoflife.date have automat
 | Nomad | [`/nomad`](https://endoflife.date/nomad) | ✔️ | git, release_table |
 | Notepad++ | [`/notepad-plus-plus`](https://endoflife.date/notepad-plus-plus) | ✔️ | git |
 | NumPy | [`/numpy`](https://endoflife.date/numpy) | ✔️ | pypi |
+| Nura | [`/nura`](https://endoflife.date/nura) | ✔️ | release_table |
 | Nutanix AOS | [`/nutanix-aos`](https://endoflife.date/nutanix-aos) | ✔️ | json_versions |
 | Nutanix Files | [`/nutanix-files`](https://endoflife.date/nutanix-files) | ✔️ | json_versions |
 | Nutanix Prism Central | [`/nutanix-prism`](https://endoflife.date/nutanix-prism) | ✔️ | json_versions |
@@ -358,6 +360,7 @@ As of 2026-10-11, 420 of the 483 products tracked by endoflife.date have automat
 | Palo Alto Networks PAN-OS | [`/panos`](https://endoflife.date/panos) | ✔️ | release_table |
 | PCI-DSS | [`/pci-dss`](https://endoflife.date/pci-dss) | ❌ |  |
 | Perl | [`/perl`](https://endoflife.date/perl) | ✔️ | git |
+| pgAdmin | [`/pgadmin`](https://endoflife.date/pgadmin) | ✔️ | github_tags |
 | Phoenix Framework | [`/phoenix-framework`](https://endoflife.date/phoenix-framework) | ✔️ | git |
 | PHP | [`/php`](https://endoflife.date/php) | ✔️ | php |
 | phpBB | [`/phpbb`](https://endoflife.date/phpbb) | ✔️ | git |
@@ -446,6 +449,7 @@ As of 2026-10-11, 420 of the 483 products tracked by endoflife.date have automat
 | SUSE Linux Micro | [`/suse-linux-micro`](https://endoflife.date/suse-linux-micro) | ✔️ | release_table |
 | SUSE Multi-Linux Manager | [`/suse-manager`](https://endoflife.date/suse-manager) | ❌ |  |
 | Svelte | [`/svelte`](https://endoflife.date/svelte) | ✔️ | npm |
+| Swift | [`/swift`](https://endoflife.date/swift) | ✔️ | json_releases, json_versions |
 | Sylius | [`/sylius`](https://endoflife.date/sylius) | ✔️ | git, release_table |
 | Symfony | [`/symfony`](https://endoflife.date/symfony) | ✔️ | git |
 | Tails | [`/tails`](https://endoflife.date/tails) | ✔️ | xml_versions |
