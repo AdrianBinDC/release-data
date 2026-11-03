@@ -944,6 +944,11 @@
       "name": "galaxy-m10",
       "eol": true
     },
+    "galaxy-m08": {
+      "name": "galaxy-m08",
+      "releaseLabel": "Galaxy M08",
+      "eol": false
+    },
     "galaxy-m07": {
       "name": "galaxy-m07",
       "releaseLabel": "Galaxy M07",
@@ -1206,6 +1211,11 @@
       "releaseLabel": "Galaxy F70 Pro 5G",
       "eol": "2032-07-31"
     },
+    "galaxy-f70-5g": {
+      "name": "galaxy-f70-5g",
+      "releaseLabel": "Galaxy F70 5G",
+      "eol": false
+    },
     "galaxy-f62": {
       "name": "galaxy-f62",
       "eol": "2024-02-22"
@@ -1291,6 +1301,11 @@
     "galaxy-f12": {
       "name": "galaxy-f12",
       "eol": "2024-11-05"
+    },
+    "galaxy-f08": {
+      "name": "galaxy-f08",
+      "releaseLabel": "Galaxy F08",
+      "eol": false
     },
     "galaxy-f07": {
       "name": "galaxy-f07",
